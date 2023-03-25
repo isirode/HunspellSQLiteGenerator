@@ -10,6 +10,10 @@ The folder is an Intellij project, I added both modules in this project.
 
 If you have build issues, make sure you add them as Maven modules, and to use JDK 16 (adopt-openjdk-16).
 
+You also need to put the .aff and .dic in the resources/data folder of the project.
+
+You can find them in the [0.0.1](https://github.com/isirode/HunspellSQLiteGenerator/releases/tag/0.0.1) release.
+
 ## TODO
 
 - [ ] Use a command line system for the app
