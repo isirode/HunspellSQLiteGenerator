@@ -10,7 +10,7 @@ The database contains a list of words, and their characteristics. Not all words 
 
 Also, not all combinations are generated, prefix like "l'" are not included, for instance.
 
-![Words](./Documentation/Resources/words.PNG)
+![Words](./Documentation/Resources/Words.PNG)
 
 ## Sequences
 
@@ -33,7 +33,7 @@ Or, in french:
 - bien
 - venu
 
-![Sequences](./Documentation/Resources/sequences.PNG)
+![Sequences](./Documentation/Resources/Sequences.PNG)
 
 ## LICENSE (database)
 
