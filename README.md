@@ -10,8 +10,6 @@ The database is licensed under the Mozilla Public License 2.0.
 
 ## LICENSE (code base)
 
-## License
-
 It is provided with the GNU AFFERO GENERAL PUBLIC LICENSE.
 
 This is a project allowing to build a SQLite database containing words and sequences from a Hunspell dictionary.
