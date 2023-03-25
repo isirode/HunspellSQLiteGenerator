@@ -33,7 +33,7 @@ Or, in french:
 - bien
 - venu
 
-![Words](./Documentation/Resources/sequences.PNG)
+![Sequences](./Documentation/Resources/sequences.PNG)
 
 ## LICENSE (database)
 
